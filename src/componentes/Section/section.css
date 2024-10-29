@@ -1,0 +1,15 @@
+.selecao {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgba(68, 67, 69, 0.223);
+}
+
+
+
+.containerSelecao h3{
+    padding-left: 20px;
+}

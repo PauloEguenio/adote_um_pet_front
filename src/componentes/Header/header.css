@@ -1,0 +1,10 @@
+.cabecalho {
+    margin-top: 0%;
+    background-color:#b0b2b6;
+    text-align: center;
+    height: 50px;
+}
+
+.cabecalho .item{
+    text-align: right;
+}

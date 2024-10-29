@@ -1,0 +1,9 @@
+.cardRodape {
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    background-color:#b0b2b6;
+    text-align: center;
+    height: 50px;
+}
