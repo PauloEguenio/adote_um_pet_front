@@ -2,11 +2,18 @@ import './aside.css'
 
 function AsideComponent () {
         return(
-          <div className='cardAside'>
-            <h3>Aside</h3>
-            <p>esse é o Aside</p>
-          </div>  
+      <aside>
+          <ul className='listaHorizontal'>
+            <li><a href="#">Quero adotar</a></li>
+            <li><a href="#">Quero doar</a></li>
+            <li><a href="#">Ser apoiador</a></li>
+          </ul>
+      </aside>  
         )
     }
 
 export default AsideComponent
+
+
+
+

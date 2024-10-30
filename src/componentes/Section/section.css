@@ -1,15 +1,9 @@
 .selecao {
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    gap: 20px;
-    padding: 20px;
-    margin: 20px;
-    border-radius: 10px;
-    background-color: rgba(68, 67, 69, 0.223);
+    padding: 20px; /* Espaçamento interno */
+    margin: 20px; /* Margem externa */
+    border: 1px solid #ddd; /* Borda ao redor da seção */
+    border-radius: 5px; /* Cantos arredondados */
+    background-color: #f9f9f9; /* Cor de fundo da seção */
 }
 
 
-
-.containerSelecao h3{
-    padding-left: 20px;
-}

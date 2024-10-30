@@ -1,7 +1,25 @@
-.cardAside {
-    margin-top: 0%;
-    background-color:#f8f6fb;
+aside{
     text-align: center;
-    height: 50px;
+}
+
+
+.listaHorizontal {
+    display: flex;
+    background-color:#e7e6ea;
+    list-style-type: none;
+    padding: 8px;
+    margin: auto;
+    box-shadow: 2px 0 5px #8c2e2f; 
+    justify-content: center;
+}
+
+.listaHorizontal a{
+    text-decoration: none;
+    margin-right: 20px;
+    transition: calc(0.3s);
+}   
+
+.listaHorizontal a:hover{
+    color: rgb(255, 0, 0);
 }
 
