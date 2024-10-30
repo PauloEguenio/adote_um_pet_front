@@ -10,8 +10,7 @@ function titulo() {
 
                     <form className="login-from">
 
-                        <span className="login-form-title ">
-                            Bem Vindos </span>
+                        <h1 className="login-form-title ">Bem Vindos </h1>
 
                             <div className="warp-input">
                                 <input className="input" type="email" /> 
@@ -24,7 +23,7 @@ function titulo() {
                             </div>
  
                             <div className="container-login-for-btn">
-                                <button class="login-for-btn ">Login</button>
+                                <button className="login-for-btn ">Login</button>
                             </div>
 
                             <div className="text-center">

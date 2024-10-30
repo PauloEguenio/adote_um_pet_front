@@ -28,12 +28,11 @@
   box-shadow: 0 5px 10px 0px;
 }
 .login-form-title {
-  display: block;
-  font-size: 30px;
+  font-size: 40px;
+  font-weight: 500;
   color: azure;
   line-height: 1.2;
   text-align: center;
-  
 }
 
 .warp-input {
@@ -120,11 +119,17 @@ input:focus + .focus-input::before {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding-bottom: 13px;
 }
 .login-for-btn {
   font-size: 15px;
   border: none;
   border-radius: 10px;
-  color: aliceblue;
+  padding: 10px;
+  width: 125px;
+  height: 50px;
+  color: rgb(36, 45, 53);
+}
+
+.login-for-btn:hover {
+  background-color: rgba(235, 170, 51,0.3);
 }
