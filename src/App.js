@@ -1,16 +1,17 @@
 import Titulo from'./comppnents/Titulo'
-import './App.css';
+import  './App.css'
 
 
 function App() {
   return (
     <> 
-     <Titulo /> 
-     <Titulo/>
-     <Titulo/>
-     <Titulo/>
+     <Titulo className='menu'/> 
+   
+    
     </>
   );
 }
+
+
 
 export default App;
