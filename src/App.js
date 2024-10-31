@@ -5,7 +5,6 @@ import SectionComponent from './componentes/Section/section';
 import FooterComponent from './componentes/Footer/footer';
 import './App.css'
 
-
 function App() {
   return (
     <>
