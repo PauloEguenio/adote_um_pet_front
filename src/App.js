@@ -1,13 +1,17 @@
-import Titulo from'./comppnents/Titulo'
-import  './App.css'
-
+//import logo from './logo.svg';
+import AsideComponent from './componentes/Aside/aside';
+import HeaderComponent from './componentes/Header/header';
+import SectionComponent from './componentes/Section/section';
+import FooterComponent from './componentes/Footer/footer';
+import './App.css'
 
 function App() {
   return (
-    <> 
-     <Titulo className='menu'/> 
-   
-    
+    <>
+      <HeaderComponent/>
+      <AsideComponent/>
+      <SectionComponent/>
+      <FooterComponent/>
     </>
   );
 }

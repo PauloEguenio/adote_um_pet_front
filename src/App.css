@@ -3,6 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+h3{
+  color: rgb(18, 19, 19);
+}
+  .App {
+    text-align: center;
+  }
+  
 .container{
   width: 100%;
   margin: 0 auto;
@@ -103,6 +111,10 @@
   -moz-transition: all 0.4s;
 }
 
+.Appr-heade {
+  background-color: #282c34;
+  min-height: 100vh;
+}
 
 .input:focus {
   outline: 0;
