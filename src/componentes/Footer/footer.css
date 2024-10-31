@@ -4,7 +4,7 @@
     margin: 0%;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-color:#b0b2b6;
+    background-color:#9cb2df;
     text-align: left;
     bottom: 0; /* Alinha à parte inferior */
     left: 0; /* Alinha à esquerda */
@@ -17,7 +17,7 @@
 
 
  a {
-    color: #4CAF50; /* Cor dos links */
+    color: #696e69; /* Cor dos links */
     text-decoration: none; /* Remove sublinhado */
 }
 

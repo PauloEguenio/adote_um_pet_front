@@ -1,5 +1,4 @@
 import './aside.css'
-
 function AsideComponent () {
         return(
       <aside>
